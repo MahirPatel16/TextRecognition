@@ -1,6 +1,6 @@
-# TextRecognition
+# Text Recognition
 
-## Project -9 Handwriting Recognition
+## ELL409 Project-9
 
 ### By
 #### Mahir Patel 2022CS11079
